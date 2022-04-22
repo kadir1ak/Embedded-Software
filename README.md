@@ -1,2 +1,2 @@
-# Kadir_AK
+# Embedded Software
 Embedded systems
